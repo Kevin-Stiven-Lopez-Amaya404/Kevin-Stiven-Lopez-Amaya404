@@ -8,7 +8,18 @@ Construyo aplicaciones web y móviles de principio a fin: desde entender el prob
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stiven_López-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stiven-lopez-7091833b3)
 [![Correo](https://img.shields.io/badge/Correo-kevinytkevinyt3@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinytkevinyt3@gmail.com)
 
-## 🚀 Proyectos destacados
+## 🏛️ Proyecto principal: Sistema de Gestión de Horarios SENA
+
+Plataforma de **microservicios** para programar los horarios de un centro de formación del SENA (fichas, instructores, ambientes y detección de conflictos), con **más de 25 repositorios** en la organización [code-sena](https://github.com/code-sena):
+
+- Microservicios hexagonales en **Java/Spring Boot** y **Go**, BFF en **Node/TypeScript** y contratos **OpenAPI** compartidos.
+- **Micro-frontends** en React por dominio (Module Federation), con un shell web y uno móvil.
+- Una base de datos **PostgreSQL** por servicio, con migraciones **Liquibase** y **Docker**.
+- **Mi aporte:** la base de datos del módulo **IAM** (identidad, roles y sesiones): esquemas aislados, índices, llaves foráneas y rollbacks, integrados con GitFlow (QA → staging → release).
+
+[▶ Ver prototipo navegable](https://code-sena.github.io/design-software-pages/) · [Documentación](https://github.com/Kevin-Stiven-Lopez-Amaya404/design-software-docs) · [Servicio IAM](https://github.com/Kevin-Stiven-Lopez-Amaya404/design-software-iam-service)
+
+## 🚀 Otros proyectos destacados
 
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
